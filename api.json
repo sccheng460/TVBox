@@ -1,7 +1,7 @@
 {"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;e3664e6c9b3fc8be8342ece0ab16acb9",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[{"key":"豆瓣","name":"二听雨","type":3,"api":"csp_Douban","searchable":0},
+	[{"key":"豆瓣","name":"听雨","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"配置中心","name":"云盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"},
 {"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"},
 	{"key":"玩偶弹幕","name":"弹幕｜玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","site":"https://www.wogg.xyz","danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"},
